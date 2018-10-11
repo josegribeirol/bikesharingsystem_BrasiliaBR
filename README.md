@@ -77,4 +77,4 @@ visualization below.
 
 ### Station of Departure
 
-<img src="README_files/figure-markdown_strict/unnamed-chunk-7-1.png" width="100%" />
+![](README_files/figure-markdown_strict/unnamed-chunk-7-1.png)
