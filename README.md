@@ -71,10 +71,10 @@ visualization below.
 
 <img src="README_files/figure-markdown_strict/unnamed-chunk-5-1.png" width="70%" />
 
-### User birthdate
+### User Birthdate
 
 <img src="README_files/figure-markdown_strict/unnamed-chunk-6-1.png" width="70%" />
 
 ### Station of Departure
 
-<img src="README_files/figure-markdown_strict/unnamed-chunk-7-1.png" width="70%" />
+<img src="README_files/figure-markdown_strict/unnamed-chunk-7-1.png" width="100%" />
