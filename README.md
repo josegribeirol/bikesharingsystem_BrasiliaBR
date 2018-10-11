@@ -67,10 +67,14 @@ The file [**eda.R**](R%20scripts/eda.R) contains the script used for the
 Exploratory Data Analysis, including the codes for the data
 visualization below.
 
-### User rides
+### User Gender
 
 <img src="README_files/figure-markdown_strict/unnamed-chunk-5-1.png" width="70%" />
 
 ### User birthdate
 
 <img src="README_files/figure-markdown_strict/unnamed-chunk-6-1.png" width="70%" />
+
+### Station of Departure
+
+<img src="README_files/figure-markdown_strict/unnamed-chunk-7-1.png" width="70%" />
