@@ -7,7 +7,7 @@ commonly known as [+Bike](http://maisbikecompartilhada.com.br/).
 
 <img src="images/bikes.jpeg" width="40%" style="display: block; margin: auto auto auto 0;" />
 
-The +Bike system was implemented on 2014 and is composed of 50 stations
+The +Bike system was implemented in 2014 and is composed of 50 stations
 along the central area of Brasília.
 
 <img src="images/stations.png" width="40%" style="display: block; margin: auto auto auto 0;" />
@@ -19,6 +19,9 @@ From the link above, it's possible to download the data in format
 *.ods*, separated by months. But if you want to save time, you can find
 the complete dataset in format *.csv* in the file
 [**rawdata\_bikedf.csv**](data/rawdata_bikedf.csv).
+
+You can also access the data on
+[**Kaggle**](https://www.kaggle.com/joseguilhermelopes/bike-sharing-system-in-brasilia-brazil)
 
 About the data
 --------------
