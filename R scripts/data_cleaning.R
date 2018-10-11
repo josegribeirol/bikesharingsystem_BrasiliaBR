@@ -153,5 +153,3 @@ df_stations[df_stations$station == "500 - Deck Sul Kids",]$lat <- -15.837818
 df_stations[df_stations$station == "500 - Deck Sul Kids",]$lon <- -47.902195
 df_stations[df_stations$station == "501 - Fórum Mundial da Água",]$lat <- -15.835700
 df_stations[df_stations$station == "501 - Fórum Mundial da Água",]$lon <- -47.861808
-
-

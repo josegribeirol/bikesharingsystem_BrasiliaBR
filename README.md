@@ -59,3 +59,18 @@ information about the stations, including their respective geolocations.
     ## $ station_name   <chr> " Memorial JK", " Praça Buriti", " Centro de Co...
     ## $ lat            <dbl> -15.78348, -15.78565, -15.78641, -15.78958, -15...
     ## $ lon            <dbl> -47.91337, -47.90875, -47.89986, -47.89431, -47...
+
+An overview of the rides
+------------------------
+
+The file [**eda.R**](R%20scripts/eda.R) contains the script used for the
+Exploratory Data Analysis, including the codes for the data
+visualization below.
+
+### User rides
+
+<img src="README_files/figure-markdown_strict/unnamed-chunk-5-1.png" width="70%" />
+
+### User birthdate
+
+<img src="README_files/figure-markdown_strict/unnamed-chunk-6-1.png" width="70%" />
