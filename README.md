@@ -66,6 +66,11 @@ information about the stations, including their respective geolocations.
 An overview of the rides
 ------------------------
 
+-   A Shiny dashboard is being developed and you can find it via this
+    [**link**](https://josegrlopes.shinyapps.io/bike_sharing_system_brasiliabr/).
+    The code used for the Shiny development is at the folder *Shiny
+    app*.
+
 The file [**eda.R**](R%20scripts/eda.R) contains the script used for the
 Exploratory Data Analysis, including the codes for the data
 visualization below.
